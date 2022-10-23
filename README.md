@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20MY%20Git%20&fontSize=90&desc=My%20name%20is%20KiUk&&fontAlign=35&fontAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20MY%20Git%20&fontSize=90&desc=My%20name%20is%20KiUk&&fontAlign=30&fontAlignY=45)
 
 ### Hi there 👋
 
